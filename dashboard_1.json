@@ -1,6 +1,6 @@
 {
 
-"settingsReloadIntervalMinutes": 1,
+"settingsReloadIntervalMinutes": 10,
 
 "fullscreen": true,
 
@@ -14,33 +14,25 @@
 
 {
 
-"url": "https://youtube.com",
+"url": "https://f5aps.clicdata.com/v/bc86imw2Udh3",
 
-"duration": 3,
+"duration": 120,
 
-"tabReloadIntervalSeconds": 15
-
-},
-
-{
-
-"url": "https://erdettorsdag.dk",
-
-"duration": 3,
-
-"tabReloadIntervalSeconds": 15
+"tabReloadIntervalSeconds": 3600
 
 },
 
 {
 
-"url": "https://erdetfredag.dk",
+"url": "https://f5aps.clicdata.com/v/6T9pE0Hh87kw",
 
-"duration": 5,
+"duration": 120,
 
-"tabReloadIntervalSeconds": 15
+"tabReloadIntervalSeconds": 3600
 
-}
+},
+
+
 
 ]
 
