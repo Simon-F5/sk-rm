@@ -1,0 +1,47 @@
+{
+
+"settingsReloadIntervalMinutes": 10,
+
+"fullscreen": true,
+
+"autoStart": true,
+
+"lazyLoadTabs": true,
+
+"closeExistingTabs": true,
+
+"websites": [
+
+{
+
+"url": "https://youtube.com",
+
+"duration": 3,
+
+"tabReloadIntervalSeconds": 15
+
+},
+
+{
+
+"url": "https://erdettorsdag.dk",
+
+"duration": 3,
+
+"tabReloadIntervalSeconds": 15
+
+},
+
+{
+
+"url": "https://erdetfredag.dk",
+
+"duration": 5,
+
+"tabReloadIntervalSeconds": 15
+
+}
+
+]
+
+}
