@@ -1,0 +1,27 @@
+{
+
+"settingsReloadIntervalMinutes": 1,
+
+"fullscreen": true,
+
+"autoStart": true,
+
+"lazyLoadTabs": true,
+
+"closeExistingTabs": true,
+
+"websites": [
+
+{
+
+"url": "https://f5aps.clicdata.com/v/qdR2IM6ULaET",
+
+"duration": 60,
+
+"tabReloadIntervalSeconds": 3600
+
+}
+
+]
+
+}
