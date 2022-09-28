@@ -6,7 +6,7 @@
 
 "autoStart": true,
 
-"lazyLoadTabs": false,
+"lazyLoadTabs": true,
 
 "closeExistingTabs": true,
 
@@ -18,7 +18,7 @@
 
 "duration": 60,
 
-"tabReloadIntervalSeconds": 600
+"tabReloadIntervalSeconds": 3600
 
 }
 
