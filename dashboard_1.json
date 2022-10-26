@@ -20,6 +20,15 @@
 
 "tabReloadIntervalSeconds": 3600
 
+},
+{
+
+"url": "https://f5aps.clicdata.com/v/VkV31sD2jDu6",
+
+"duration": 60,
+
+"tabReloadIntervalSeconds": 3600
+
 }
 
 ]
