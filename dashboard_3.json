@@ -1,37 +1,14 @@
 {
-
-"settingsReloadIntervalMinutes": 1,
-
-"fullscreen": true,
-
-"autoStart": true,
-
-"lazyLoadTabs": true,
-
-"closeExistingTabs": true,
-
-"websites": [
-
-{
-
-"url": "https://f5aps.clicdata.com/v/bc86imw2Udh3",
-
-"duration": 60,
-
-"tabReloadIntervalSeconds": 3600
-
-},
-
-{
-
-"url": "https://f5aps.clicdata.com/v/6T9pE0Hh87kw",
-
-"duration": 60,
-
-"tabReloadIntervalSeconds": 3600
-
-}
-
-]
-
+   "settingsReloadIntervalMinutes":1,
+   "fullscreen":true,
+   "autoStart":true,
+   "lazyLoadTabs":true,
+   "closeExistingTabs":true,
+   "websites":[
+      {
+         "url":"https://ortto.app/-/d/tv/f5aps/YzKJ6lwg86itPSMevsF9GF_MbOmmy5Di_sy6NA?cm=dark",
+         "duration":60,
+         "tabReloadIntervalSeconds":3600
+      }
+   ]
 }
