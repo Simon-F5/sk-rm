@@ -1,46 +1,34 @@
 {
-
 "settingsReloadIntervalMinutes": 10,
-
 "fullscreen": true,
-
 "autoStart": true,
-
 "lazyLoadTabs": true,
-
 "closeExistingTabs": true,
-
 "websites": [
-
 {
-
+"url": "https://f5aps.clicdata.com/v/3J618sFzmY8M",
+"duration": 60,
+"tabReloadIntervalSeconds": 3600
+},
+{
+"url": "https://f5aps.clicdata.com/v/4fwNDqpA2XaZ",
+"duration": 60,
+"tabReloadIntervalSeconds": 3600
+},
+{
+"url": "https://f5aps.clicdata.com/v/BnK1HbgCMAP2",
+"duration": 60,
+"tabReloadIntervalSeconds": 3600
+},
+{
 "url": "https://f5aps.clicdata.com/v/bc86imw2Udh3",
-
 "duration": 60,
-
 "tabReloadIntervalSeconds": 3600
-
 },
-
 {
-
 "url": "https://f5aps.clicdata.com/v/FinHeASKuzhM",
-
 "duration": 60,
-
 "tabReloadIntervalSeconds": 3600
-
-},
-{
-
-"url": "https://f5aps.clicdata.com/v/VkV31sD2jDu6",
-
-"duration": 60,
-
-"tabReloadIntervalSeconds": 3600
-
 }
-
 ]
-
 }
