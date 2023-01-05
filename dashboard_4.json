@@ -2,12 +2,12 @@
    "settingsReloadIntervalMinutes":1,
    "fullscreen":true,
    "autoStart":true,
-   "lazyLoadTabs":true,
+   "lazyLoadTabs":false,
    "closeExistingTabs":true,
    "websites":[
       {
          "url":"https://ortto.app/-/d/tv/f5aps/YzKJ6lwg86itPSMevsF9GF_MbOmmy5Di_sy6NA?cm=dark",
-         "duration":60,
+         "duration":1,
          "tabReloadIntervalSeconds":18
       }
    ]
