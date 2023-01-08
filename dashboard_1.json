@@ -1,36 +1,39 @@
 {
-
-"settingsReloadIntervalMinutes": 1,
-
-"fullscreen": true,
-
-"autoStart": true,
-
-"lazyLoadTabs": true,
-
-"closeExistingTabs": true,
-
-"websites": [
-
-{
-
-"url": "https://f5aps.clicdata.com/v/FinHeASKuzhM",
-
-"duration": 60,
-
-"tabReloadIntervalSeconds": 3600
-
-},
-{
-
-"url": "https://f5aps.clicdata.com/v/VkV31sD2jDu6",
-
-"duration": 60,
-
-"tabReloadIntervalSeconds": 3600
-
-}
-
-]
-
+    "settingsReloadIntervalMinutes": 60,
+    "fullscreen": true,
+    "autoStart": true,
+    "lazyLoadTabs": false,
+    "closeExistingTabs": true,
+    "websites": [
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_A1",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_A2",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_A3",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_A4",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_A5",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_A6",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        }
+    ]
 }

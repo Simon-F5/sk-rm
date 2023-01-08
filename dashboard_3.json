@@ -1,14 +1,14 @@
 {
-   "settingsReloadIntervalMinutes":1,
-   "fullscreen":true,
-   "autoStart":true,
-   "lazyLoadTabs":true,
-   "closeExistingTabs":true,
-   "websites":[
+   "settingsReloadIntervalMinutes": 1,
+   "fullscreen": true,
+   "autoStart": true,
+   "lazyLoadTabs": true,
+   "closeExistingTabs": true,
+   "websites": [
       {
-         "url":"https://ortto.app/-/d/tv/f5aps/YzKJ6lwg86itPSMevsF9GF_MbOmmy5Di_sy6NA?cm=dark",
-         "duration":60,
-         "tabReloadIntervalSeconds":1800
+         "url": "https://ortto.app/-/d/tv/f5aps/YzKJ6lwg86itPSMevsF9GF_MbOmmy5Di_sy6NA?cm=dark",
+         "duration": 60,
+         "tabReloadIntervalSeconds": 1800
       }
    ]
 }
