@@ -1,14 +1,39 @@
 {
-   "settingsReloadIntervalMinutes": 1,
-   "fullscreen": true,
-   "autoStart": true,
-   "lazyLoadTabs": true,
-   "closeExistingTabs": true,
-   "websites": [
-      {
-         "url": "https://ortto.app/-/d/tv/f5aps/YzKJ6lwg86itPSMevsF9GF_MbOmmy5Di_sy6NA?cm=dark",
-         "duration": 60,
-         "tabReloadIntervalSeconds": 1800
-      }
-   ]
+    "settingsReloadIntervalMinutes": 60,
+    "fullscreen": true,
+    "autoStart": true,
+    "lazyLoadTabs": false,
+    "closeExistingTabs": true,
+    "websites": [
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_B1",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_B2",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_B3",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_B4",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_B5",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H1_B6",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+        }
+    ]
 }
