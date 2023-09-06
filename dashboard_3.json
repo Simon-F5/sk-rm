@@ -6,32 +6,32 @@
     "closeExistingTabs": true,
     "websites": [
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H1_A1",
+            "url": "https://f5aps.clicdata.com/v/DK_H2_A1",
             "duration": 20,
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H1_A2",
+            "url": "https://f5aps.clicdata.com/v/DK_H2_A2",
             "duration": 20,
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H1_A3",
+            "url": "https://f5aps.clicdata.com/v/DK_H2_A3",
             "duration": 20,
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H1_A4",
+            "url": "https://f5aps.clicdata.com/v/DK_H2_A4",
             "duration": 20,
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H1_A5",
+            "url": "https://f5aps.clicdata.com/v/DK_H2_A5",
             "duration": 20,
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H1_A6",
+            "url": "https://f5aps.clicdata.com/v/DK_H2_A6",
             "duration": 20,
             "tabReloadIntervalSeconds": 3600
         }
