@@ -7,32 +7,17 @@
     "websites": [
         {
             "url": "https://f5aps.clicdata.com/v/DK_H3_A1",
-            "duration": 20,
+            "duration": 30,
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H3_A2",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 3600
-        },
-        {
-            "url": "https://f5aps.clicdata.com/v/DK_H3_A3",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 3600
-        },
-        {
-            "url": "https://f5aps.clicdata.com/v/DK_H3_A4",
-            "duration": 20,
+            "url": "https://f5aps.clicdata.com/v/kEMUVmGz59kh",
+            "duration": 30,
             "tabReloadIntervalSeconds": 3600
         },
         {
             "url": "https://f5aps.clicdata.com/v/DK_H3_A5",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 3600
-        },
-        {
-            "url": "https://f5aps.clicdata.com/v/DK_H3_A6",
-            "duration": 20,
+            "duration": 30,
             "tabReloadIntervalSeconds": 3600
         }
     ]
