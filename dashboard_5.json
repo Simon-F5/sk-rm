@@ -11,12 +11,27 @@
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://f5aps.clicdata.com/v/kEMUVmGz59kh",
+            "url": "https://f5aps.clicdata.com/v/DK_H3_A2",
+            "duration": 30,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H3_A3",
+            "duration": 30,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H3_A4",
             "duration": 30,
             "tabReloadIntervalSeconds": 3600
         },
         {
             "url": "https://f5aps.clicdata.com/v/DK_H3_A5",
+            "duration": 30,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://f5aps.clicdata.com/v/DK_H3_A6",
             "duration": 30,
             "tabReloadIntervalSeconds": 3600
         }
