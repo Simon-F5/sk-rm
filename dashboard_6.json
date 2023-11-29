@@ -34,6 +34,11 @@
             "url": "https://f5aps.clicdata.com/v/DK_H4_A6",
             "duration": 20,
             "tabReloadIntervalSeconds": 3600
-        }
+        },
+        {
+            "url": "https://ortto.app/-/d/f5aps/ZUztD4pc4Mv4Gi_Juvbbb9_fJ_OAfOi6yeWBAA?cm=dark",
+            "duration": 20,
+            "tabReloadIntervalSeconds": 3600
+    }
     ]
 }
