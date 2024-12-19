@@ -6,33 +6,13 @@
     "closeExistingTabs": true,
     "websites": [
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H2_A1",
-            "duration": 20,
+            "url": "https://f5aps.clicdata.com/v/PjPcPxr3ZC89",
+            "duration": 2000,
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://f5aps.clicdata.com/v/DK_H2_A2",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 3600
-        },
-        {
-            "url": "https://f5aps.clicdata.com/v/DK_H2_A3",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 3600
-        },
-        {
-            "url": "https://f5aps.clicdata.com/v/DK_H2_A4",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 3600
-        },
-        {
-            "url": "https://f5aps.clicdata.com/v/DK_H2_A5",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 3600
-        },
-        {
-            "url": "https://f5aps.clicdata.com/v/DK_H2_A6",
-            "duration": 20,
+            "url": "https://f5aps.clicdata.com/v/PjPcPxr3ZC89",
+            "duration": 2000,
             "tabReloadIntervalSeconds": 3600
         }
     ]
